@@ -236,4 +236,4 @@ This repository serves as the official landing page for Tomahawk. The software i
 **Get the most recent version of Tomahawk today!**
 
 ---
-**Last updated:** 2026-10-23 09:50:36 UTC
+**Last updated:** 2026-10-23 14:48:20 UTC
